@@ -1,9 +1,11 @@
 # Menus
 menu:
   主页: .
-  目录: archives
+  归档: archives
   标签: tags
-  关于我: /about/index.html
+  EVERYDAY: /app
+  关于我: /about
+  
 
 # Customize
 customize:
